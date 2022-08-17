@@ -44,4 +44,4 @@
 
  <img src="https://activity-graph.herokuapp.com/graph?username=vaibhs123&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
- ![Visits Badge](https://badges.pufler.dev/visits/Vaibhs123/Vaibhs123)
+ ![Visits Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Vaibhs123)
