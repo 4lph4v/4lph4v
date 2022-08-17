@@ -40,8 +40,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhs123&theme=radical)](https://git.io/streak-stats) 
 
-![Mrunank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhs123&show_icons=true&theme=radical)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhs123&show_icons=true&theme=radical)
 
  <img src="https://activity-graph.herokuapp.com/graph?username=vaibhs123&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
- ![Visits Badge](https://badges.pufler.dev/visits/vaibhs123/vaibhs123)
+ ![Visits Badge](https://badges.pufler.dev/visits/Vaibhs123/Vaibhs123)
