@@ -13,6 +13,7 @@
  <li>CTF Player (HTB/Root-me)</li>
  <li>WAPT/VAPT</li>  
  <li>NSE 3 Certified</li>
+ <li>Web Penetration Practitioner(Portswigger)</li>
 </ul>
 <br>
 
