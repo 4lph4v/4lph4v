@@ -9,6 +9,7 @@
  
  <ul>
  <li>Cyber Security Enthusiast</li>
+ <li>Intern at Securityium</li>
  <li>Core Team Member at Hack Club TechBrewers</li>
  <li>CTF Player (HTB/Root-me)</li>
  <li>WAPT/VAPT</li>  
@@ -30,7 +31,7 @@
 </p>
 <hr>
 <p align="center">
-<a href=" https://www.linkedin.com/in/vaibhav-kadam-052b2b19b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vaibhav-kadam-052b2b19b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Vaibhs123"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://mobile.twitter.com/4lph4V" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Vaibhav Kadam-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/4lph4v/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/4lph4v-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
@@ -44,4 +45,4 @@
 
  <img src="https://activity-graph.herokuapp.com/graph?username=vaibhs123&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
- ![Visits Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Vaibhs123)
+![Vistor badge](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
