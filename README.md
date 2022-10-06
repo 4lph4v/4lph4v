@@ -45,4 +45,4 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Vaibhs123&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
-![Vistor badge](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+![Vistor badge](https://komarev.com/ghpvc/?username=Vaibhs123&color=orange)
