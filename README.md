@@ -42,7 +42,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhs123&theme=radical)](https://git.io/streak-stats) 
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhs123&show_icons=true&theme=radical)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Vaibhs123&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
 ![Vistor badge](https://komarev.com/ghpvc/?username=Vaibhs123&color=orange)
