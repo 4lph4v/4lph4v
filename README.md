@@ -9,7 +9,7 @@
  
  <ul>
  <li>Cyber Security Enthusiast</li>
- <li>Intern at Securityium</li>
+ <li>ASC at Securityium</li>
  <li>Core Team Member at Hack Club TechBrewers</li>
  <li>CTF Player (HTB/Root-me)</li>
  <li>WAPT/VAPT</li>  
@@ -39,8 +39,8 @@
 </hr> 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhs123&theme=radical)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4lph4v&theme=radical)](https://git.io/streak-stats) 
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhs123&show_icons=true&theme=radical)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lph4v&show_icons=true&theme=radical)
  
-![Vistor badge](https://komarev.com/ghpvc/?username=Vaibhs123&color=orange)
+![Vistor badge](https://komarev.com/ghpvc/?username=4lph4v&color=orange)
