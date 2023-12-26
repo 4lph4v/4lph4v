@@ -2,7 +2,7 @@
 # <p align="center"> Welcome to my GitHub !! ✨ </p>
 
 <p align="center">
-<img src="https://github.com/Vaibhs123/Vaibhs123/blob/main/Linkedin%20Banner.png">
+<img src="https://github.com/4lph4v/Vaibhs123/blob/main/Linkedin%20Banner.png">
  </p>
  
  <br>
@@ -10,11 +10,11 @@
  <ul>
  <li>Cyber Security Enthusiast</li>
  <li>ASC at Securityium</li>
- <li>Core Team Member at Hack Club TechBrewers</li>
+ <li>Core Team Member at Club TechBrewers</li>
  <li>CTF Player (HTB/Root-me)</li>
- <li>WAPT/VAPT</li>  
+ <li>VAPT</li>  
  <li>NSE 3 Certified</li>
- <li>Web Penetration Practitioner(Portswigger)</li>
+ <li>Certified AppSec Practitioner(SecOps)</li>
 </ul>
 <br>
 
@@ -31,8 +31,8 @@
 </p>
 <hr>
 <p align="center">
-<a href="https://www.linkedin.com/in/vaibhav-kadam-052b2b19b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Vaibhs123"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/4lph4v/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/4lph4v"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://mobile.twitter.com/4lph4V" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/4lph4v/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
