@@ -2,7 +2,7 @@
 # <p align="center"> Welcome to my GitHub !! ✨ </p>
 
 <p align="center">
-<img src="https://github.com/4lph4v/Vaibhs123/blob/main/Linkedin%20Banner.png">
+<img src="https://github.com/4lph4v/Vaibhs123/blob/main/github-banner.png">
  </p>
  
  <br>
