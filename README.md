@@ -8,12 +8,11 @@
  <br>
  
  <ul>
- <li>Cyber Security Enthusiast</li>
+ <li>Offensive Security Enthusiast</li>
  <li>ASC at Securityium</li>
- <li>Core Team Member at Club TechBrewers</li>
- <li>CTF Player (HTB/Root-me)</li>
- <li>VAPT</li>  
- <li>NSE 3 Certified</li>
+ <li>Building Club TechBrewers</li>
+ <li>MLH Top 50</li>
+ <li>Fortinet NSE 3 Certified</li>
  <li>Certified AppSec Practitioner(SecOps)</li>
 </ul>
 <br>
