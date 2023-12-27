@@ -13,6 +13,7 @@
  <li>Building Club TechBrewers</li>
  <li>MLH Top 50</li>
  <li>Fortinet NSE 3 Certified</li>
+ <li>ISC2 CC</li>
  <li>Certified AppSec Practitioner(SecOps)</li>
 </ul>
 <br>
